@@ -11,7 +11,9 @@ public class Main {
                 "Johnson D Stevens 21",
                 "Kirk h Willison 33",
                 "Steve j Smith 57",
-                "steve j smith 58"
+                "steve j smith 58",
+                "Albert g Walker 99",
+                "Dereck y Albertson 23"
         };
        nameSorter test = new nameSorter();
         for(int i=0;i<test.nameSorter(input).size();i++){

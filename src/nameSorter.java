@@ -4,8 +4,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class nameSorter {
-    public nameSorter() {
-    }
+
 
     public List<Name> nameSorter(String[] input){
         List<Name> listOfNames = new ArrayList<>();
